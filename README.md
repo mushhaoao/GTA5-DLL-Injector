@@ -1,7 +1,6 @@
 # 🎯 Injetor de DLL - BattleEye  
 
-Este injetor permite que você injetar **DLLs** no processo do **GTA5**. Ele foi projetado para fins **educacionais** e requer **uso responsável**.  
-⚠️ **Atenção**: O uso de modificações pode ter consequências, como **banimento** em jogos online.  
+Este projeto é um injetor de DLL desenvolvido para o GTA5, permitindo injetar DLLs personalizadas no processo do jogo. Foi criado com fins educacionais para demonstrar o funcionamento básico de injeção de DLLs, utilizando técnicas para evitar a detecção de sistemas de segurança como o BattleEye.
 
 ---
 

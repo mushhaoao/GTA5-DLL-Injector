@@ -1,3 +1,7 @@
+![GTA5 DLL Injector](https://github.com/mushhaoao/GTA5-DLL-Injector/blob/main/baner.webp?raw=true)
+
+
+
 # 🎯 Injetor de DLL - BattleEye  
 
 Este projeto é um injetor de DLL desenvolvido para o **GTA5**, permitindo injetar **DLLs personalizadas** no processo do jogo. Foi criado com **fins educacionais**, demonstrando o funcionamento básico de injeção de DLLs, utilizando técnicas para evitar a detecção de sistemas de segurança como o **BattleEye**.

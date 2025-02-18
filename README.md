@@ -1,6 +1,6 @@
 # 🎯 Injetor de DLL - BattleEye  
 
-Este projeto é um injetor de DLL desenvolvido para o GTA5, permitindo injetar DLLs personalizadas no processo do jogo. Foi criado com fins educacionais para demonstrar o funcionamento básico de injeção de DLLs, utilizando técnicas para evitar a detecção de sistemas de segurança como o BattleEye.
+Este projeto é um injetor de DLL desenvolvido para o **GTA5**, permitindo injetar **DLLs personalizadas** no processo do jogo. Foi criado com **fins educacionais**, demonstrando o funcionamento básico de injeção de DLLs, utilizando técnicas para evitar a detecção de sistemas de segurança como o **BattleEye**.
 
 ---
 
@@ -45,6 +45,13 @@ Este projeto é um injetor de DLL desenvolvido para o GTA5, permitindo injetar D
 
 ---
 
+## ⚠️ Aviso Sobre Falsos Positivos  
+
+🚨 **Por que o injetor pode ser detectado como vírus?**  
+O arquivo `injetorv8.exe` pode ser identificado como **falso positivo** por alguns antivírus. Isso ocorre porque ele manipula processos do sistema, algo comumente associado a malwares. No entanto, este injetor **não contém código malicioso** e **não representa uma ameaça ao seu sistema**. Caso o antivírus bloqueie o injetor, você pode adicioná-lo à **lista de exclusões** para que ele funcione corretamente.  
+
+---
+
 ## ⚠️ Aviso Legal  
 
 Este injetor foi desenvolvido **para fins educacionais**. Ele funciona de maneira **indetectável** pelo **BattleEye**, mas **não podemos garantir que isso dure para sempre**.  
@@ -68,4 +75,5 @@ Se você achou útil, **deixe uma estrela ⭐ no repositório**! Isso ajuda a ap
 
 ---
 
-✉️ **Agradecemos novamente por seu apoio contínuo e esperamos que aproveite a ferramenta!**  
+✉️ **Agradecemos novamente por seu apoio contínuo e esperamos que aproveite a ferramenta!**
+

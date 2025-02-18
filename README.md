@@ -1,52 +1,72 @@
-Injetor de DLL - BattleEye
-Este injetor permite que você injete DLLs no processo do GTA5. Ele foi projetado para ser usado de forma educacional e requer o uso responsável. Lembre-se, o uso de modificações pode ter consequências como banimento em jogos online.
+# 🎯 Injetor de DLL - BattleEye  
 
-Requisitos
-Coloque todos os arquivos na mesma pasta:
-O injetor, a DLL e outras dependências precisam estar juntos na mesma pasta para que o processo funcione corretamente.
+Este injetor permite que você injetar **DLLs** no processo do **GTA5**. Ele foi projetado para fins **educacionais** e requer **uso responsável**.  
+⚠️ **Atenção**: O uso de modificações pode ter consequências, como **banimento** em jogos online.  
 
-Arquivos necessários:
-injetorv8.exe
-injetorv8.dll (essa DLL é a dependência necessária para o funcionamento do EXE)
-Outras dependências (se houver)
-GTA5 precisa estar aberto:
-Certifique-se de que o GTA5 está em execução antes de rodar o injetor. O injetor irá se conectar ao processo do jogo para injetar a DLL.
+---
 
-Como Usar
-Passo 1: Preparação
-Baixe e extraia todos os arquivos para a mesma pasta.
-Abra o GTA5 e mantenha-o aberto em segundo plano.
-Passo 2: Executando o Injetor
-Execute o injetorv8.exe como administrador para garantir que o injetor tenha as permissões necessárias para manipular o processo do jogo.
+## 📌 Requisitos  
 
-O injetor pedirá que você forneça o caminho da DLL que deseja injetar.
-Existem duas formas de fornecer o caminho:
+✔️ **Coloque todos os arquivos na mesma pasta**: O injetor, a DLL e outras dependências precisam estar juntos na mesma pasta para que o processo funcione corretamente.  
 
-Passando o caminho diretamente na linha de comando:
-Por exemplo, se você tem a DLL hack.dll em C:\meuprogama\, execute:
+✔️ **Arquivos necessários**:  
+- `injetorv8.exe`  
+- `injetorv8.dll` (dependência necessária para o funcionamento do EXE)  
+- Outras dependências (se houver)  
 
-injetorv8.exe C:\meuprogama\hack.dll
+✔️ **GTA5 precisa estar aberto**: Certifique-se de que o **GTA5 está em execução** antes de rodar o injetor. O injetor precisa se conectar ao processo do jogo para injetar a DLL.  
 
-Fornecendo o caminho quando solicitado pelo injetor:
-O injetor vai pedir para você digitar o caminho da DLL, como mostrado abaixo:
+---
 
-Digite o caminho completo da DLL para injeção:C:\exemplo\hack.dll
-O injetor irá criptografar o caminho da DLL e, em seguida, injeção a DLL no processo do GTA5.
+## 🚀 Como Usar  
 
-Passo 3: Confirmação
-Após a execução, o injetor irá mostrar uma mensagem confirmando se a injeção foi bem-sucedida ou se houve algum erro durante o processo. Caso algo tenha dado errado, o erro será mostrado no console.
-Aviso Legal
-Este injetor foi desenvolvido para fins educacionais. Ele vai funcionar de maneira indetectável pelo BattleEye, mas não podemos garantir que isso dure.Use com responsabilidade
+### 🔹 Passo 1: Preparação  
+1️⃣ **Baixe e extraia** todos os arquivos para a mesma pasta.  
+2️⃣ Abra o **GTA5** e mantenha-o **aberto** em segundo plano.  
 
+### 🔹 Passo 2: Executando o Injetor  
+1️⃣ **Execute** o `injetorv8.exe` como **administrador** para garantir as permissões necessárias para manipular o processo do jogo.  
 
+2️⃣ O injetor pedirá que você forneça o **caminho da DLL** que deseja injetar. Existem duas formas de fazer isso:  
 
+   - **Passando o caminho diretamente na linha de comando**:  
+     ```bash
+     injetorv8.exe C:\meuprogama\hack.dll
+     ```
 
-Sobre o Projeto
-Este projeto foi desenvolvido exclusivamente por mushhaoao com o objetivo de proporcionar uma ferramenta simples e eficaz para a injeção de DLLs no GTA5. Agradecemos imensamente a todos que fizeram o download, deram avaliações e deixaram estrelas! Seu apoio e feedback são essenciais para que possamos continuar melhorando e trazendo mais atualizações para a comunidade.
+   - **Fornecendo o caminho quando solicitado pelo injetor**:  
+     ```bash
+     Digite o caminho completo da DLL para injeção: C:\exemplo\hack.dll
+     ```
 
-Estamos sempre em busca de novos colaboradores! Se você tem interesse em contribuir, melhorar o projeto ou trazer novas ideias, fique à vontade para se juntar a nós. Todos são muito bem-vindos!
+3️⃣ O injetor irá **criptografar o caminho da DLL** e injetá-la no processo do **GTA5**.  
 
-Agradecemos novamente por seu apoio contínuo e esperamos que aproveite a ferramenta!
+### 🔹 Passo 3: Confirmação  
+✔️ Após a execução, o injetor mostrará uma mensagem confirmando se a **injeção foi bem-sucedida** ou se houve algum **erro**. Caso ocorra um problema, o erro será exibido no console.  
 
+---
 
+## ⚠️ Aviso Legal  
 
+Este injetor foi desenvolvido **para fins educacionais**. Ele funciona de maneira **indetectável** pelo **BattleEye**, mas **não podemos garantir que isso dure para sempre**.  
+⚠️ **Use com responsabilidade**.  
+
+---
+
+## 💡 Sobre o Projeto  
+
+Este projeto foi desenvolvido **exclusivamente por mushhaoao**, com o objetivo de proporcionar uma ferramenta **simples e eficaz** para a injeção de DLLs no **GTA5**.  
+
+🙏 **Agradecemos imensamente** a todos que **fizeram o download**, deram **avaliações** e deixaram **estrelas**! Seu apoio e feedback são essenciais para que possamos continuar melhorando e trazendo mais atualizações para a comunidade.  
+
+🔧 **Novos colaboradores são muito bem-vindos!**  
+Se você tem interesse em contribuir, melhorar o projeto ou trazer novas ideias, fique à vontade para se juntar a nós. **Toda ajuda é bem-vinda!**  
+
+---
+
+### ⭐ **Gostou do projeto?**  
+Se você achou útil, **deixe uma estrela ⭐ no repositório**! Isso ajuda a apoiar o desenvolvimento e motiva futuras melhorias.  
+
+---
+
+✉️ **Agradecemos novamente por seu apoio contínuo e esperamos que aproveite a ferramenta!**  
